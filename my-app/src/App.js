@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+$ git clone <"https://MrGreenGaming14.github.io/sase-hackathon-september-2022">
 function App() {
   return (
     <div className="App">
@@ -21,5 +21,9 @@ function App() {
     </div>
   );
 }
+
+$ git add .
+
+$ git push
 
 export default App;
