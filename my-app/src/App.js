@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React and your mom
         </a>
       </header>
     </div>
@@ -23,6 +23,8 @@ function App() {
 }
 
 $ git add .
+
+$ git commit -m "That's why yo shoes raggedy"
 
 $ git push
 
